@@ -41,8 +41,9 @@ Navigate to the project directory and install the necessary packages:
 
 npm install
 
-3. Available Scripts
-   The following scripts are available in the package.json file:
+### 3. Available Scripts
+
+The following scripts are available in the package.json file:
 
 - Open Cypress Test Runner:
   npm run cy:open
@@ -53,7 +54,7 @@ npm install
 - Run Tests in Chrome:
   npm run browser:chrome
 
-  ## Test Reports
+### 4. Test Reports
 
 The project is configured with Mocha Awesome reporter. After test execution, the report will be generated under cypress/reports.
 
