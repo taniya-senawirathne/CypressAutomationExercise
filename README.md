@@ -39,20 +39,32 @@ git clone https://github.com/taniya-senawirathne/CypressAutomationExercise.git
 
 Navigate to the project directory and install the necessary packages:
 
+```bash
 npm install
+
+```
 
 ### 3. Available Scripts
 
 The following scripts are available in the package.json file:
 
 - Open Cypress Test Runner:
+
+```bash
   npm run cy:open
+```
 
 - Run Tests Headlessly:
+
+```bash
   npm run test
+```
 
 - Run Tests in Chrome:
+
+```bash
   npm run browser:chrome
+```
 
 ### 4. Test Reports
 
